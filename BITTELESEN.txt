@@ -1,0 +1,14 @@
+//
+Autor: B.Oeztunc
+Datei Index.Html, Index.Js
+Datum: 28-01-2022
+//
+
+Um das Spiel zu starten muss man erstmal Git CMD öffnen und
+"npm start" eingeben.
+
+Falls das schon geschehen ist muss man nur warten und das Spiel startet 
+von alleine.
+
+Achtung : Falls npm noch nicht installiert ist muss man "npm install" eingeben und
+wenn das installiert ist dann erst "npm start"
